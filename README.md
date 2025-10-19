@@ -1,6 +1,3 @@
-## AWS Amplify React+Vite Starter Template
-
-This repository provides a starter template for creating applications using React+Vite and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
 
 ## Overview
 
@@ -8,6 +5,20 @@ This template equips you with a foundational React application integrated with A
 
 ## Features
 
+ **User Registration**
+**Event Calendar**
+**Discussion Forum**
+**Photo Gallery**
+**Payment Portal**
+**Live Charts**
+. **Users can post:**
+   - **Audio** (voice notes, podcasts, songs)
+   - **Video** (recorded videos, live streaming coming soon)
+**Audio/Video Posting UI:**
+**Audio/Video Settings:**
+- Max audio size: 100MB
+- Max video size: 500MB
+- Allowed formats: mp3, wav, mp4, avi
 - **Authentication**: Setup with Amazon Cognito for secure user authentication.
 - **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
 - **Database**: Real-time database powered by Amazon DynamoDB.
